@@ -1,2 +1,2 @@
-install node.js
-run node project.js
+Install node.js
+Run node project.js
